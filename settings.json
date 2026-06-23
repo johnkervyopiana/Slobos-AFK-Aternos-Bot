@@ -8,7 +8,7 @@
   "server": {
     "ip": "CMSP.aternos.me",
     "port": 18532,
-    "version": "26.2",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
